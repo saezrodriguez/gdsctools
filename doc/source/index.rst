@@ -27,6 +27,8 @@ GDSCTools documentation
 
 **GDSCTools** is a Python library dedicated to the study of drug responses in the context of the `GDSC (Genomics of Drug Sensitivity in Cancer) <http://www.cancerrxgene.org/>`_ project. It contains utilities to find significant associations between drugs and genomic features (e.g., gene mutation), however, it should be also of interest to a wider community involved in cancer projects.
 
+It has been developed by Thomas Cokelaer (Pasteur Institute), with support of Howard Lightfood (Sanger Institute) and Francesco Iorio (EMBL-EBI), and is coordinated by Mathew Garnett (Sanger Institute) and Julio Saez-Rodriguez (RWTH Aachen and EMBL-EBI).
+
 .. index:: installation
 
 **GDSCTools** is written in Python. If you are a developer and/or knows
